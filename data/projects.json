@@ -1,0 +1,7 @@
+{
+  "data": [ 
+    {"projectName": "Supply Connect", "projectUrl": "https://surplusconnection.herokuapp.com/#/home", "imageUrl": "./images/surplus_connection.png", "description": ""},
+    {"projectName": "Kitchen Sink", "projectUrl": "http://kitchensinkapp.herokuapp.com/", "imageUrl": "./images/kitchen_sink.png", "description": ""},
+    {"projectName": "Booster Draft Simulator", "projectUrl": "http://www.wizards.com/mtg/flash/draftsimulator/magicDrafter.html", "imageUrl": "./images/booster_draft.png", "description": ""}
+  ]
+}
